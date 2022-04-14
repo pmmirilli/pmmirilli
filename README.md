@@ -7,7 +7,7 @@ I actually had to learn Markdown to write this file! ...
 
 ---------------------------------
 
-#### A few lines about my story as a programmer
+### A few lines about my story as a programmer
 
 I am an engineer, seeking to reposition myself in the IT field. I have always been into computers and tech stuff.  
 I started off by learning a bit of C during college and enjoyed it right from the start. Prior to that, I had no clue as to how software was made. After that, I had a few experiences with VBA (in Excel, as one would guess) and then some with C# (in Unity, who would have thought?).  
